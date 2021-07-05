@@ -1,10 +1,10 @@
 chapters:
 - chapters:
   - chapters: []
-    name: Markdown4
-    path: markdown4.md
+    name: Test1
+    path: markdown-test.md
     type: MARKDOWN_CHAPTER
-  name: h1
+  name: test h1
   path: ''
   type: MANUAL_CHAPTER
 fieldValues:
